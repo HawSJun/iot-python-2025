@@ -185,5 +185,5 @@ https://github.com/user-attachments/assets/5ef7a8b9-d485-4ef0-8a89-3dd23e25d45d
         ```
 <!-- 주석 -->
 <!-- html에서 사용하는 <img> 태그를 캡처한 이지미를 추가 -->
-![py001](./image/py001.png)
+<!--![py001](./image/py001.png)-->
 <img src="./image/py001.png" width="400">
