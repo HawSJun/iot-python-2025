@@ -148,6 +148,8 @@ https://github.com/user-attachments/assets/5ef7a8b9-d485-4ef0-8a89-3dd23e25d45d
         - Crtl + Shift + P(명령 팔레트)에서 시작
             - Create: 새 Jupyter 노트북 클릭
             - 무조건 저장 먼저(.ipynb)
+        - GUI 학습에는 불합리
+        - 빅데이터분석, 머신러닝, 딥러닝 많이 활용
 
     - GUI 학습
         - GUI(Graphic User Interface) - 그래픽 사용자 인터페이스
@@ -167,3 +169,21 @@ https://github.com/user-attachments/assets/5ef7a8b9-d485-4ef0-8a89-3dd23e25d45d
             - 안드로이드, iOS 모바일 앱 UI 사용 가능
             - 모바일 특화로 멀티플랫폼 지원
             - 가장 어렵다
+
+    - Tkinter 학습
+        - 기본 템플릿
+
+        ```python
+        from tkinter import *
+
+        root = Tk()
+        # 이 사이에 위젯, 이벤트 등 작성
+        # Label, Button, Entry, Radiobutton
+        # Checkbutton, Listbox, Frame 등...
+        # 위젯.pack() 필수!
+        root.mainloop()
+        ```
+<!-- 주석 -->
+<!-- html에서 사용하는 <img> 태그를 캡처한 이지미를 추가 -->
+![py001](./image/py001.png)
+<img src="./image/py001.png" width="400">
