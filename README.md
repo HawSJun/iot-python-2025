@@ -142,6 +142,7 @@ IoT 개발자 기초 프로그래밍 언어 리포지토리
                    
 https://github.com/user-attachments/assets/5ef7a8b9-d485-4ef0-8a89-3dd23e25d45d
 
+- 파이썬 응용
     - 주피터 노트북 기본 사용법
         - 파이썬을 사용, 연구를 목적으로 하는 리포트 작성에 특화된 기술
         - 주피터 프로젝트에서 나온 결과물
@@ -187,3 +188,17 @@ https://github.com/user-attachments/assets/5ef7a8b9-d485-4ef0-8a89-3dd23e25d45d
 <!-- html에서 사용하는 <img> 태그를 캡처한 이지미를 추가 -->
 <!--![py001](./image/py001.png)-->
 <img src="./image/py001.png" width="400">
+
+## 7일차
+- 파이썬 응용
+    - 토이 프로젝트
+        - ChatGPT 유사 앱 - 구글 제미나이 API
+    - 실습
+        - 제미나이 챗앱 -> **클래스형태**로 변경
+    - 실행 파일 만들기
+        - `pyinstaller` 모듈 설치
+        - > pip install pyinstaller
+        - > pyinstaller --onefile 파이썬 파일명
+        - > 같이 실행되는 터미널을 제거하려면
+        - > pyinstaller --onefile --noconsole 파이썬 파일명
+        - 아이콘 등의 리소스를 dist 폴더에 복사해야
