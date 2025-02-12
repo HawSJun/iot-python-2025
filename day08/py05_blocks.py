@@ -31,7 +31,7 @@ class Block:
         pygame.draw.rect(Surface, self.col, self.rect)
 
 pygame.init()
-Surface = pygame.display.set_mode((1000, 800))
+Surface = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 FPSCLOCK = pygame.time.Clock()
 pygame.display.set_caption('Pygame Blocks!!')
 pygame.key.set_repeat(10, 10)
