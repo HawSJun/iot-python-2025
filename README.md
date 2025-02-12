@@ -218,9 +218,14 @@ https://github.com/user-attachments/assets/37fff7f0-3549-41c2-82d6-85b3f54c9455
         - 이미지. 사운드 등 리소스 활용 게임
     - 토이 프로젝트
         - 블록깨기 게임
-        - 공의 x축 방향 계산 방법 : $x = r \cdot \cos \theta$
-        - 공의 y축 방향 계산 방법 : $y = r \cdot \sin \theta$
+        - 공의 위치에 대한 수식
+            - x축 방향 계산 방법 : $x = r \cdot \cos \theta$
+            - y축 방향 계산 방법 : $y = r \cdot \sin \theta$
+        - 공의 시작 방향, 경계부분 문제 해결, 종료 후 다시 시작 로직
 
  <!-- $$ x = r \cdot \cos \theta $$ -->
-
+ 
 <img src="./image/py004.gif" width="700" height="450">
+
+## 9일차
+- 코딩 테스트
