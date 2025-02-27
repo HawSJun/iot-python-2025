@@ -13,7 +13,7 @@ IoT 개발자과정
     2. Visual Studio Installer 시작
         - https://learn.microsoft.com/ko-kr/visualstudio/install/install-visual-studio?view=vs-2022 참조
         - 설치 경로 변경 : C:\Dev\IDE\Microsoft Visual Studio\2022\Community
-        - 워크로드에서 **ASP.NET 및 웹 개발**, **.NET 데스크톱 개발**, **C++를 사용한 데스크톱 개발** 선
+        - 워크로드에서 **ASP.NET 및 웹 개발**, **.NET 데스크톱 개발**, **C++를 사용한 데스크톱 개발** 선택
         - 설치 시작
         - 설치 완료 후 Visual Studio Install 종료
         - Visual Studio 2022 실행
